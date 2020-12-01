@@ -1,0 +1,72 @@
+/* Put your style information here! */
+body {
+    background-color: #ffffd9;
+      font-family: arial;
+      font-weight: 300;
+      font-size: 22px;
+      color: grey;
+      padding-top: 5px;
+      padding-left: 2em;
+      padding-right: 2em;
+  }
+  ul {
+    text-align: left!important;
+  }
+
+  b{
+    color: black!important;
+    font-weight: 800;
+    font-size: 24px;
+  }
+  #container {
+      padding-top: 50px;
+  }
+  #websites{
+    text-align: center;
+  }
+  .header {
+    padding-top: 1em;
+    margin: auto;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 80px;
+    color: black!important;
+  }
+  .sectionHeader {
+    padding-top: 30px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+  }
+
+  .subSectionHeader {
+    padding-top: 30px;
+    width: 50%;
+    font-weight: 450;
+    font-size: 40px;
+  }
+
+  .section {
+    margin: auto;
+    padding-top: .5em;
+    padding-bottom: .5em;
+  }
+
+  p{
+    padding-top: 2em;
+    margin: auto;
+    padding-left: 5em;
+    padding-right: 5em;
+    text-align: center;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 60%;
+    height: 60%;
+  }
