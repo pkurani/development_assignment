@@ -1,13 +1,14 @@
-/* Put your style information here! */
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Padauk:wght@400;700&display=swap');
+
 body {
     background-color: #FFE4E4;
-      font-family: arial;
+    font-family: 'Padauk', sans-serif;
       font-weight: 300;
       font-size: 22px;
-      color: grey;
+      color: #8B8B8B;
       padding-top: 5px;
-      padding-left: 2em;
-      padding-right: 2em;
+      padding-left: 4em;
+      padding-right: 4em;
   }
   ul {
     text-align: left!important;
@@ -26,7 +27,6 @@ body {
   }
   .header {
     padding-top: 1em;
-    margin: auto;
     text-align: center;
     font-weight: bolder;
     font-size: 80px;
@@ -34,8 +34,6 @@ body {
   }
   .sectionHeader {
     padding-top: 30px;
-    margin: auto;
-    width: 50%;
     text-align: center;
     font-weight: 600;
     font-size: 50px;
@@ -60,8 +58,6 @@ body {
   p{
     padding-top: 2em;
     margin: auto;
-    padding-left: 5em;
-    padding-right: 5em;
     text-align: center;
   }
   img {
